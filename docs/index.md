@@ -10,3 +10,5 @@ How does this work
 |       |   |   |   |   |
 |       |   |   |   |   |
 |       |   |   |   |   |
+
+**How quickly are changes made?**
