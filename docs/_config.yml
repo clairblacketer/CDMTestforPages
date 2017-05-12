@@ -8,3 +8,5 @@ deafults:
   values:
     layout: tutorial
     sectionid: tutorial
+exclude: 
+- CDM Management.docx
