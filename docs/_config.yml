@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: CDM Version Documentation Management
 description: This page is designed to house the CDM documentation in an easy-to-use versioning system
+deafults:
+- scope:
+    path: tutorial
+    type: pages
+  values:
+    layout: tutorial
+    sectionid: tutorial
