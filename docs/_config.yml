@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 title: CDM Version Documentation Management
 description: This page is designed to house the CDM documentation in an easy-to-use versioning system
+url: https://clairblacketer.github.io
+baseurl: CDMTestforPages/
+paginate: 2
 defaults:
 - scope:
     path: tutorial
@@ -10,3 +13,5 @@ defaults:
     sectionid: tutorial
 exclude: 
 - CDM Management.docx
+gems
+- jekyll-paginate
