@@ -13,5 +13,3 @@ defaults:
     sectionid: tutorial
 exclude: 
 - CDM Management.docx
-gems:
-- jekyll-paginate
